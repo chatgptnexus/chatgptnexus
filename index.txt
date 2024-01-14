@@ -1,5 +1,5 @@
 1:HL["/chatgptnexus/_next/static/css/cbfc412cab8c824e.css",{"as":"style"}]
-0:["zBumsw0meW3tzk1qXtLgz",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/chatgptnexus/_next/static/css/cbfc412cab8c824e.css","precedence":"next"}]],["$L3",null]]]]]
+0:["xhdc27WMxYxnXfuyhWJeF",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/chatgptnexus/_next/static/css/cbfc412cab8c824e.css","precedence":"next"}]],["$L3",null]]]]]
 4:HL["/chatgptnexus/_next/static/css/68673ef1c6cd9c25.css",{"as":"style"}]
 5:HL["/chatgptnexus/_next/static/css/765ce86c7f30c399.css",{"as":"style"}]
 6:I{"id":9180,"chunks":["272:static/chunks/webpack-2f1595ddd92cf7eb.js","629:static/chunks/04b39fde-fc748145f696e48a.js"],"name":"default","async":false}
